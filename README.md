@@ -39,7 +39,10 @@ This project shows how to:
 
 ## 🏗️ Architecture
 
-![Architecture](End-to-End Azure Databricks Architecture.png)
+![Architecture]
+<p align="center">
+  <img src="End-to-End Azure Databricks Architecture.png" alt="End-to-End Azure Databricks Architecture" width="100%">
+</p>
 
 **Flow in one line:**
 `Azure SQL` → `Lakehouse Federation (Unity Catalog)` → `Bronze` → `Silver` → `Gold` → `Dashboard`
